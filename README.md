@@ -1,5 +1,9 @@
 # Ana_Principios_Estadistica_0126
-Propósito almacenar el proyecto de trabajo de la clase de Principios de la Estadística 
+Propósito almacenar el proyecto de trabajo de la clase de Principios de la Estadística
+
+Semana 1:
++ 19/01/2022
++ 20/01/2022
 
 Semana 2:
 26/01/2022: Primeros pasos en R y Rstudio
