@@ -12,3 +12,7 @@ Semana 2:
 Semana 3:
 + 02/02/2022: Sala de computo instalar credenciales y proyecto
 + 03/02/2022: Sala de computo 
+
+Semana 4:
++ 09/02/2022: Sala de computo aplicación de histogramas y tablas de rango
++ 
