@@ -14,8 +14,8 @@ Semana 3:
 + 03/02/2022: Sala de computo 
 
 Semana 4:
-+09/02/2022: Sala de computo aplicación de histogramas y tablas de rango
-+10/02/2022: Sala de computo Uso de datos
++ 09/02/2022: Sala de computo aplicación de histogramas y tablas de rango
++ 10/02/2022: Sala de computo Uso de datos
 
 Semana 5: 
 + 16/02/2022: Trabajar con tablas de frecuencia
