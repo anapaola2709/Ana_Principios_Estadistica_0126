@@ -62,6 +62,5 @@ Semana 14:
 + 05/05/2022: Sala de computo
 
 Semana 15:
-
-📍 11/05/2022: Sala de computo: HW 6
-📍 12/05/2022:
++ 11/05/2022: Sala de computo: Tarea: HW 6
++ 12/05/2022:
